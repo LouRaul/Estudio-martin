@@ -23,9 +23,8 @@
 			rel="stylesheet"
 		/>
 	</head>
-	<body>
-		{% include "./partials/navbar.html" %} {{ content | safe }} {% include
-		"./partials/footer.html" %}
+	<body class="bg-slate-100">
+		{{ content | safe }} {% include "./partials/footer.html" %}
 
 		<script src="/static/js/alpine.js"></script>
 
