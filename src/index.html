@@ -8,12 +8,12 @@ path: home
 	class="container mx-auto h-screen flex flex-col justify-center items-center"
 >
 	<img
-		class="mb-12"
+		class="mb-12 w-20 md:w-24"
 		src="/static/img/isologo.png"
 		alt="isologo Estudio Martin"
 	/>
 	<h1
-		class="font-raleway lg:text-5xl text-[28px] antialiased uppercase font-medium"
+		class="font-raleway lg:text-5xl text-[28px] antialiased uppercase font-medium mb-0"
 	>
 		Estudio Martin & Asoc.
 	</h1>
@@ -24,11 +24,35 @@ path: home
 		Consultores tributarios y de negocios
 	</p>
 
-	<div class="mt-12 mx-auto">
+	<div class="mt-12 mx-auto flex">
 		<a
+			id="copyemail"
 			href="mailto:info@martinyasoc.ar"
 			class="font-inter lg:text-lg text-sky-500 hover:text-sky-900 hover:underline"
 			>info@martinyasoc.ar</a
 		>
+		<!--
+		<button class="ml-2" onclick="myFunction()">
+			<img class="w-5" src="/static/img/copy_icon.svg" alt="" />
+		</button>
+	-->
 	</div>
 </div>
+<!--
+<script>
+	function myFunction() {
+		// Get the text field
+		var copyText = document.getElementById('copyemail');
+
+		// Select the text field
+		copyText.select();
+		copyText.setSelectionRange(0, 99999); // For mobile devices
+
+		// Copy the text inside the text field
+		navigator.clipboard.writeText(copyText.value);
+
+		// Alert the copied text
+		alert('Copied the text: ' + copyText.value);
+	}
+</script>
+-->
