@@ -24,35 +24,33 @@ path: home
 		Consultores tributarios y de negocios
 	</p>
 
-	<div class="mt-12 mx-auto flex">
+	<div class="mt-12 mx-auto flex items-center">
 		<a
-			id="copyemail"
+			id="email"
 			href="mailto:info@martinyasoc.ar"
-			class="font-inter lg:text-lg text-sky-500 hover:text-sky-900 hover:underline"
+			class="font-inter lg:text-lg hover:underline hover:decoration-sky-600 hover:decoration-2 active:text-sky-600"
 			>info@martinyasoc.ar</a
 		>
-		<!--
-		<button class="ml-2" onclick="myFunction()">
-			<img class="w-5" src="/static/img/copy_icon.svg" alt="" />
+
+		<button
+			id="copyButton"
+			class="hover:bg-sky-100 rounded-full p-2 ml-1 active:bg-sky-200"
+		>
+			<img class="w-5" src="/static/img/copy_icon.svg" alt="Copy email" />
 		</button>
-	-->
-	</div>
+		<!--
+		<div
+			class="bg-sky-900 px-2 py-2 rounded-md flex items-center ml-2 drop-shadow-lg"
+		>
+			<small class="text-white leading-none">Copiado!</small>
+		</div>
+		--></div>
 </div>
-<!--
+
 <script>
-	function myFunction() {
-		// Get the text field
-		var copyText = document.getElementById('copyemail');
-
-		// Select the text field
-		copyText.select();
-		copyText.setSelectionRange(0, 99999); // For mobile devices
-
-		// Copy the text inside the text field
-		navigator.clipboard.writeText(copyText.value);
-
-		// Alert the copied text
-		alert('Copied the text: ' + copyText.value);
-	}
+	const copyButton = document.getElementById('copyButton');
+	copyButton.addEventListener('click', (event) => {
+		var email = document.getElementById('email').textContent;
+		navigator.clipboard.writeText(email);
+	});
 </script>
--->
