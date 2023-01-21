@@ -1,18 +1,83 @@
 ---
-title: This is my fourth & latest post
-description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that has
-  evolved from generation X is on the runway heading towards a streamlined cloud
-  solution.
-date: 2020-09-23T15:13:13.021Z
-author: Surjith S M
+title: Blanqueo de capitales – ¿conviene o no? cuestiones prácticas
+description: El blanqueo de capitales para la construcción, proyecto que se
+  venía gestando desde hace varios meses atrás, finalmente tuvo su aparición
+  formal el día 12 de marzo de 2021 en el marco de la Ley 27.613 -Incentivo a la
+  Construcción Federal Argentina y Acceso a la Vivienda
+author: Cr. José Luis Martin
+date: 2021-05-07T15:13:13.021Z
 tags: second-tag
 ---
+El blanqueo de capitales para la construcción, proyecto que se venía gestando desde hace varios meses atrás, finalmente tuvo su aparición formal el día 12 de marzo de 2021 en el marco de la Ley 27.613 -Incentivo a la Construcción Federal Argentina y Acceso a la Vivienda-. Posteriormente, el 19 de abril el poder judicial a través del Decreto 244 reglamentó la  norma y seguidamente el día 27 del mismo mes la Administración Federal de Ingresos Públicos hizo lo propio mediante la Resolución General 4976.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Planteadas entonces ley y reglamentaciones, parecerían estar delimitados los puntos y por menores para tentar a las personas que están evaluando realizar la declaración voluntaria de tenencias. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Veamos entonces algunas **cuestiones prácticas** que podrían incidir en la ecuación decisoria de un individuo, sucesión indivisa o sociedad que está evaluando adherirse:
 
-## Section Header
+**¿A quiénes les podría interesar ingresar al sinceramiento?**
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+A aquellos sujetos que busquen invertir en proyectos inmobiliarios, de manera directa o a través de terceros, mediante:
+
+*a) la suscripción de boleto de compraventa u otro compromiso similar,*
+
+*b) el otorgamiento de la escritura traslativa de dominio,*
+
+*c) aportes a fideicomisos constituidos en los términos del CÓDIGO CIVIL Y COMERCIAL DE LA NACIÓN y*
+
+*d) la suscripción, en el mercado primario, de Fondos Comunes de Inversión comprendidos en la Ley N° 24.083 y sus modificaciones y/o de fideicomisos financieros, autorizados por la COMISIÓN NACIONAL DE VALORES.*
+
+
+
+**¿En cualquier proyecto inmobiliario se pueden aplicar los fondos sincerados?**
+
+No. Además de cumplir con la condición del grado de avance inferior al 50%, el proyecto inmobiliario debe estar informada en el “Registro de Proyectos Inmobiliarios” (REPI) implementado por la AFIP.
+
+Cada proyecto acreditado satisfactoriamente en el REPI contará con un “Código de Registro de Proyecto Inmobiliario” (COPI), el cuál deberá informar el inversor en la declaración jurada del sinceramiento. Así quedará registrado el destino efectivo (¿y único?) que se le podrá dar a los activos sincerados. Recordemos que la RG 4976 dispone que *las transferencias que se efectúen desde la Cuenta Especial de Depósito y Cancelación para la Construcción Argentina (CECON.Ar), deberán tener como destino, exclusivamente, las cuentas de los desarrolladores, constructores o vehículos de inversión.*
+
+
+
+**¿Depositar dólares o pesos, qué conviene más?**
+
+Acá hay dos cuestiones para analizar: 
+
+En primer lugar, **desde el punto de vista operativo**, el Decreto 244 dispuso en su artículo 7 que los sujetos que hicieron el depósito en la Cuenta Especial de Depósito y Cancelación para la Construcción Argentina *podrán optar por afectar esos fondos en forma total o parcial, con anterioridad a la inversión en el proyecto inmobiliario, a cualquiera de los siguientes destinos:*
+
+*a. Mantenerlos depositados en su moneda de origen.*
+
+\*Aquí no se hacen cambios, si se depositan dólares se usan dólares, si depositan pesos se usan pesos.
+
+*b. Tratándose de moneda extranjera, venderlos en el Mercado Libre de Cambios, a través de la entidad financiera en la que se efectuó el depósito.*
+
+\*Esta alternativa supone **cambiar los dólares depositados en la cuenta al tipo de cambio oficial**, algo poco conveniente considerando la cotización (+- 94).
+
+*c. Aplicarlos transitoriamente, y por única vez, a la adquisición de títulos públicos nacionales, para su posterior venta con liquidación, exclusivamente, en moneda de curso legal. En aquellos casos en que se hubiera declarado tenencia en moneda extranjera, la venta con liquidación deberá efectuarse dentro del plazo que, a esos efectos, establezca la COMISIÓN NACIONAL DE VALORES. El producido de la inversión (…) se acreditará, en moneda nacional, y deberá invertirse en los proyectos inmobiliarios (…).*
+
+*\**En esta opción, mediante operación bursátil **los dólares depositados se convierten en pesos a un tipo de cambio semejante a la realidad de mercado y muy cercano al dólar informal** (+- 154). La duda que podría plantear esta alternativa es cómo se llevará a cabo y si efectivamente se podrán hacer disposiciones parciales de los fondos para ir convirtiéndoles periódicamente (supongamos cada mes para cancelar cuotas en pesos de una inversión a plazo), o de lo contrario se supondrá una única conversión a moneda nacional del total de lo depositado.
+
+**¿Los fondos que se inviertan en la obra o proyecto inmobiliario tienen que cubrir el 100% del valor del inmueble a adquirir, o puede ser parcial?**
+
+Las normativas a la fecha no dan ninguna precisión o condición particular sobre este punto.  por lo que se entiende que, por ejemplo, la suscripción de un boleto de compraventa se podría cancelar en parte con fondos sincerados (depositados en la Cuenta Especial de Depósito y Cancelación) y parte con fondos que provengan de una fuente de financiación, actividad comercial, etc.
+
+En segundo lugar, **considerando el impuesto especial o costo de la exteriorización**, sincerar dólares supone una ventaja ante la alternativa de sincerar pesos.
+
+Esto surge de la manera estipulada para calcular impuesto especial, ya que el mismo se determina sobre el valor de la tenencia que se declare expresada en moneda nacional considerando el tipo de cambio comprador del Banco de la Nación Argentina que corresponda a la fecha de depósito en la cuenta. Según la brecha cambiaria, por ejemplo, la tasa real del impuesto podría bajar del 5% al 3,5% o 3%.
+
+**¿Hay un plazo para utilizar la totalidad del dinero sincerado en la cuenta especial?**
+
+Sí. *Todos los fondos declarados deberán encontrarse afectados al desarrollo o la inversión, en proyectos inmobiliarios, con anterioridad al 31 de diciembre de 2022, inclusive*.
+
+**¿Los sujetos que adhieren al sinceramiento además acceden a los beneficios en Bienes Personales e ITI o Ganancias?**
+
+No. El Decreto 244 establece en su artículo 9 que *Los sujetos a los que se refiere el artículo 6° de la Ley N° 27.613* (sujetos inversores) *que hubieran efectuado la declaración voluntaria de sus tenencias de moneda extranjera y/o nacional en el país y en el exterior* (…) *no podrán acceder a los beneficios contemplados en el Capítulo II del Título I de esa norma legal* (eximición y cómputo como pago a cuenta de Bienes Personales de las inversiones realizadas, y diferimiento del ITI o Impuesto a las Ganancias).
+
+**¿Cuándo se paga el impuesto especial y se presenta la declaración jurada?**
+
+Depende del día en que el inversor depositó el dinero sincerado en la Cuenta Especial de Depósito y Cancelación:
+
+* Depósitos desde el 12/03/2021 hasta 10/05/2021 —> *vencimiento pago y presentación el 31/05/2021*
+* Depósitos desde el 11/05/2021 hasta 09/06/2021 —> *vencimiento pago y presentación el 30/06/2021*
+* Depósitos desde el 10/06/2021 hasta 09/07/2021 —> *vencimiento pago y presentación el 09/07/2021*
+
+El pago del impuesto especial se deberá realizar mediante Volante Electrónico de Pago (VEP) y no se podrán usar fondos sincerados en la cuenta especial. 
+
+El sinceramiento parece ser una alternativa conveniente para la mayoría de los casos, pero también hay que reconocer que las demoras en las reglamentaciones y las imprecisiones aún presentes en algunos puntos específicos terminan generando cierta incertidumbre a los potenciales inversores.
