@@ -1,119 +1,66 @@
 ---
-title: This is my third post
-description: Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-date: 2020-09-03
-author: Surjith S M
+title: Régimen de Registración de Contratos de Locación de Inmuebles, 8 puntos básicos
+description: AFIP reglamentó el Régimen de Registración de Contratos de Locación
+  de Inmuebles que se había estipulado dentro de las novedades introducidas por
+  la “Nueva Ley de Alquileres” -Ley 27.551-, vigente desde julio del año 2020.
+author: Cr. José Luis Martin
+date: 2021-02-18T03:00:00.000Z
 tags:
   - second-tag
 ---
+El pasado 18 de febrero finalmente AFIP reglamentó el Régimen de Registración de Contratos de Locación de Inmuebles que se había estipulado dentro de las novedades introducidas por la “Nueva Ley de Alquileres” -Ley 27.551-, vigente desde julio del año 2020.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Cabe recordar que en ese entonces, el artículo 16 de la ley estableció que “*Los contratos de locación de inmueble deben ser declarados por el locador ante la Administración Federal de Ingresos Públicos de la Nación (AFIP), dentro del plazo, en la forma y con los alcances que dicho organismo disponga. La Administración Federal de Ingresos Públicos (AFIP) debe disponer un régimen de facilidades para la registración de contratos vigentes”.*
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Es así que el organismo, a través de la resolución general 4933, implementa el Régimen de Registración de Contratos de Locación de Inmuebles (RELI) en busca de un mayor control fiscal en un sector económico que estiman se encontraría informal en aproximadamente un 80% de los casos.
 
-## h2 Heading
+A continuación *8 puntos básicos para entender las nuevas obligaciones de las partes*:
 
-### h3 Heading
+**1. ¿Qué contratos se deben informar?**
 
-#### h4 Heading
+Aquellos celebrados por cuenta propia o por cuenta y orden de terceros que sean:
 
-##### h5 Heading
+* Locaciones de bienes inmuebles urbanos, y sublocaciones
+* Arrendamientos sobre bienes inmuebles rurales, y subarrendamientos
+* Locaciones temporarias de inmuebles -urbanos o rurales- con fines turísticos, de descanso o similares
+* Locaciones de espacios o superficies fijas o móviles delimitados dentro de bienes inmuebles (por ej. stands en supermercados, shoppings o galerías, terrazas, sótanos, etc.)
 
-###### h6 Heading
+Un punto importante es que no se encuentran incluidos los contratos referidos a los espacios de “góndolas”.
 
-## Horizontal Rules
+**2. ¿Quiénes deben hacer la registración del contrato en AFIP?**
 
----
+Las personas físicas, sucesiones indivisas o personas jurídicas que asuman el carácter de locador, arrendador, sublocador o subarrendador. Si en el contrato interviene un intermediario (ej. corredor inmobiliario, bróker, etc.) éste puede cumplir la obligación de registración del contrato en representación del locador o arrendador.
 
-## Emphasis
+Para los sujetos residentes en el exterior el encargado será su representante en el país.
 
-**This is bold text**
+**3. ¿Cuál es el plazo para registrar el contrato?**
 
-**This is bold text**
+Deberá realizarse dentro de los 15 (quince) días corridos posteriores a su celebración.
 
-_This is italic text_
+**4. ¿Hay alguna exclusión o exención de cumplir con esta obligación?**
 
-_This is italic text_
+Si, pero únicamente cuando las partes del contrato sean exclusivamente el Estado Nacional, los Estados provinciales, el Gobierno de la Ciudad Autónoma de Buenos Aires o los municipios quedan eximidos de la obligación de registración.
 
-~~Strikethrough~~
+**5. ¿Si el locador (o el intermediario) no registró el contrato?**
 
-## Blockquotes
+Los sujetos que asuman el carácter de locatarios o arrendatarios podrán informar el contrato celebrado de manera voluntaria. Para ello, tendrán un plazo máximo de hasta 6 (seis) meses posteriores a la fecha de finalización del mismo.
 
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
+**6. ¿Qué sucede en el caso de los condominios?**
 
-## Lists
+Cualquiera de los condóminos puede hacer la registración del contrato celebrado, y esto libera de la obligación al condominio y al resto de los condóminos (siempre que se hayan informado a la totalidad de los integrantes).
 
-Unordered
+**7. ¿Cómo se hace la registración del contrato?**
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
+A través del sitio web de AFIP utilizando el servicio “Registro de Locaciones de Inmuebles – RELI – CONTRIBUYENTE”, con clave fiscal de nivel de seguridad 3 o superior.
 
-Ordered
+Allí se deberán declarar los detalles del contrato y adjuntar una copia del mismo en formato “.pdf” o “.jpg”.
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+**8. ¿Aplican sanciones si no se cumple con el régimen de registración?**
 
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
+Si. El artículo 16 de la ley 27.551 dispone que *El incumplimiento del locador lo hace pasible de las sanciones previstas en la Ley 11.683 (t.o en 1998 y sus modificaciones)*. Es decir, podría aplicar multas por incumplimiento formal.
 
-Start numbering with offset:
+Por último cabe mencionar que **este régimen entrará en vigencia el día 1 de marzo de 2021, inclusive**.
 
-57. foo
-1. bar
+De manera excepcional, aquellos contratos que se hubieran celebrado a partir del día 1 de julio de 2020 y que continúen vigentes al 1 de marzo de 2021; como así aquellos que se celebren a partir de la fecha de la vigencia del régimen hasta el día 31 de marzo de 2021 inclusive, gozarán de un plazo excepcional para su registración hasta el día 15 de abril de 2021, inclusive.
 
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
+Sin dudas AFIP busca a través de este régimen de registración de contratos indagar exhaustivamente en un mercado en el que tradicionalmente tuvo poco acceso, esperando encontrar incumplimientos en contribuyentes Monotributistas, del Impuesto a las Ganancias, IVA y hasta, solidariamente con las provincias y la Ciudad Autónoma de Buenos Aires, Ingresos Brutos e Impuesto de Sellos; entre otros.
